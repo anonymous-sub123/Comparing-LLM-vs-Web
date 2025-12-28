@@ -1,0 +1,1178 @@
+[
+  {
+    "id": 0,
+    "question": "Is your financial readiness a major reason why you are not engaged or married to your current partner?"
+  },
+  {
+    "id": 1,
+    "question": "Is your partner's unwillingness to make a commitment a major reason why you are not engaged or married to your current partner?"
+  },
+  {
+    "id": 2,
+    "question": "Is not being far enough along in your job or career a major reason for you not being engaged or married to your current partner?"
+  },
+  {
+    "id": 3,
+    "question": "Is uncertainty about your partner being the right person a major reason why you are not engaged or married to your current partner?"
+  },
+  {
+    "id": 4,
+    "question": "Are you satisfied with the way household chores are divided between you and your spouse/partner?"
+  },
+  {
+    "id": 5,
+    "question": "Are you satisfied with your sex life?"
+  },
+  {
+    "id": 6,
+    "question": "Are you satisfied with the communication between you and your spouse/partner?"
+  },
+  {
+    "id": 7,
+    "question": "Are you satisfied with how well your spouse/partner balances work and their personal life?"
+  },
+  {
+    "id": 8,
+    "question": "Are you satisfied with your spouse's/partner's approach to parenting?"
+  },
+  {
+    "id": 9,
+    "question": "Do you trust your spouse/partner to always tell you the truth?"
+  },
+  {
+    "id": 10,
+    "question": "Do you trust your spouse/partner to be faithful to you?"
+  },
+  {
+    "id": 11,
+    "question": "Do you trust your spouse/partner to handle money responsibly?"
+  },
+  {
+    "id": 12,
+    "question": "Do you trust your spouse/partner to act in your best interest?"
+  },
+  {
+    "id": 13,
+    "question": "Does being a working parent make it harder for you to advance in your job or career?"
+  },
+  {
+    "id": 14,
+    "question": "Does being a working parent make it harder to be a good parent?"
+  },
+  {
+    "id": 15,
+    "question": "Will you have children in the future?"
+  },
+  {
+    "id": 16,
+    "question": "Would having children make it easier for you to advance in your job or career?"
+  },
+  {
+    "id": 17,
+    "question": "Do you do more household chores and responsibilities than your spouse/partner?"
+  },
+  {
+    "id": 18,
+    "question": "Do you manage household finances more than your spouse/partner?"
+  },
+  {
+    "id": 19,
+    "question": "Do you do more to manage your child(ren)'s schedule and activities than your spouse/partner?"
+  },
+  {
+    "id": 20,
+    "question": "Do you rely on a parent for emotional support a lot?"
+  },
+  {
+    "id": 21,
+    "question": "Did your DNA test results alter your perception of your racial or ethnic identity?"
+  },
+  {
+    "id": 22,
+    "question": "Will your household have sufficient financial resources to live comfortably in the future?"
+  },
+  {
+    "id": 23,
+    "question": "Would you describe the financial situation of most Americans as living comfortably?"
+  },
+  {
+    "id": 24,
+    "question": "Do you believe it is essential for you to get training and develop new skills throughout your work life in order to keep up with changes in the workplace?"
+  },
+  {
+    "id": 25,
+    "question": "Should making health care more affordable be a top priority for the federal government to address?"
+  },
+  {
+    "id": 26,
+    "question": "Should reducing illegal immigration be a top priority for the federal government?"
+  },
+  {
+    "id": 27,
+    "question": "Should reducing economic inequality be a top priority for the federal government?"
+  },
+  {
+    "id": 28,
+    "question": "Should addressing climate change be a top priority for the federal government?"
+  },
+  {
+    "id": 29,
+    "question": "Should dealing with terrorism be a top priority for the federal government?"
+  },
+  {
+    "id": 30,
+    "question": "Should reducing gun violence be a top priority for the federal government?"
+  },
+  {
+    "id": 31,
+    "question": "Is it the federal government's responsibility to ensure an adequate standard of living for all Americans?"
+  },
+  {
+    "id": 32,
+    "question": "Is it the federal government's responsibility to provide adequate housing for all Americans?"
+  },
+  {
+    "id": 33,
+    "question": "Is it the federal government's responsibility to provide high quality K-12 education for all Americans?"
+  },
+  {
+    "id": 34,
+    "question": "Is it the federal government's responsibility to provide a college education for all Americans?"
+  },
+  {
+    "id": 35,
+    "question": "Is ensuring adequate income in retirement for all Americans a responsibility of the federal government?"
+  },
+  {
+    "id": 36,
+    "question": "Is it the federal government's responsibility to provide adequate medical care for all Americans?"
+  },
+  {
+    "id": 37,
+    "question": "Should the federal government have the responsibility to provide health insurance for all Americans?"
+  },
+  {
+    "id": 38,
+    "question": "Should the federal government be responsible for providing access to high-speed internet for all Americans?"
+  },
+  {
+    "id": 39,
+    "question": "Would you rate the economic conditions in this country today as either excellent or poor?"
+  },
+  {
+    "id": 40,
+    "question": "A year from now, do you expect that economic conditions in the country as a whole will be better?"
+  },
+  {
+    "id": 41,
+    "question": "Do you think the availability of jobs contributes significantly to your opinion about how the economy is doing?"
+  },
+  {
+    "id": 42,
+    "question": "Do you believe that the performance of the stock market greatly influences your opinion about the economy?"
+  },
+  {
+    "id": 43,
+    "question": "Do you believe that prices for food and consumer goods greatly contribute to your opinion about how the economy is doing?"
+  },
+  {
+    "id": 44,
+    "question": "Do you believe the cost of health care greatly contributes to your opinion about how the economy is doing?"
+  },
+  {
+    "id": 45,
+    "question": "Do you think real estate values are significantly contributing to your opinion about how the economy is doing?"
+  },
+  {
+    "id": 46,
+    "question": "Do you think gas prices contribute significantly to your opinion about how the economy is doing?"
+  },
+  {
+    "id": 47,
+    "question": "Do you think the federal budget deficit greatly contributes to your opinion about how the economy is doing?"
+  },
+  {
+    "id": 48,
+    "question": "Do you think wages and incomes greatly contribute to your opinion on how the economy is doing?"
+  },
+  {
+    "id": 49,
+    "question": "Do you believe that the country's tax system is significantly influencing your opinion about how the economy is doing?"
+  },
+  {
+    "id": 50,
+    "question": "Does the availability of jobs in your area greatly affect your household's financial situation?"
+  },
+  {
+    "id": 51,
+    "question": "Does the federal budget deficit affect your household's financial situation significantly?"
+  },
+  {
+    "id": 52,
+    "question": "Do you believe there is too much economic inequality in the country these days?"
+  },
+  {
+    "id": 53,
+    "question": "Is some amount of economic inequality acceptable to you?"
+  },
+  {
+    "id": 54,
+    "question": "Do you believe our economic system requires only minor changes to address economic inequality in this country?"
+  },
+  {
+    "id": 55,
+    "question": "Should the federal government have a lot of responsibility in reducing economic inequality in our country?"
+  },
+  {
+    "id": 56,
+    "question": "Should state governments have a significant responsibility in reducing economic inequality in our country?"
+  },
+  {
+    "id": 57,
+    "question": "Should large businesses and corporations have a lot of responsibility in reducing economic inequality in our country?"
+  },
+  {
+    "id": 58,
+    "question": "Should churches and other religious organizations have a significant responsibility in reducing economic inequality in our country?"
+  },
+  {
+    "id": 59,
+    "question": "Should wealthy individuals have a lot of responsibility in reducing economic inequality in our country?"
+  },
+  {
+    "id": 60,
+    "question": "Does the outsourcing of jobs to other countries contribute to economic inequality in this country?"
+  },
+  {
+    "id": 61,
+    "question": "Do you think our current trade policies with other countries contribute significantly to economic inequality in this country?"
+  },
+  {
+    "id": 62,
+    "question": "Does the automation of jobs contribute to economic inequality in this country?"
+  },
+  {
+    "id": 63,
+    "question": "Do you believe that too much regulation of major corporations contributes significantly to economic inequality in this country?"
+  },
+  {
+    "id": 64,
+    "question": "Do you believe that insufficient regulation of major corporations substantially contributes to economic inequality in this country?"
+  },
+  {
+    "id": 65,
+    "question": "Do you believe that some people working harder than others greatly contributes to economic inequality in this country?"
+  },
+  {
+    "id": 66,
+    "question": "Does our tax system contribute significantly to economic inequality in this country?"
+  },
+  {
+    "id": 67,
+    "question": "Do you believe that the different life choices people make contribute significantly to economic inequality in this country?"
+  },
+  {
+    "id": 68,
+    "question": "Do you think that some people starting out with more opportunities than others contributes significantly to economic inequality in this country?"
+  },
+  {
+    "id": 69,
+    "question": "Do you believe that problems with our educational system contribute significantly to economic inequality in this country?"
+  },
+  {
+    "id": 70,
+    "question": "Do you believe that discrimination against racial and ethnic minorities contributes significantly to economic inequality in this country?"
+  },
+  {
+    "id": 71,
+    "question": "Do you believe that the growing number of illegal immigrants working in the U.S. greatly contributes to economic inequality in this country?"
+  },
+  {
+    "id": 72,
+    "question": "Do you believe the growing number of legal immigrants working in the U.S. contributes significantly to economic inequality in this country?"
+  },
+  {
+    "id": 73,
+    "question": "Do you believe that a family's financial situation greatly impacts a child's ability to succeed in life in this country?"
+  },
+  {
+    "id": 74,
+    "question": "Do you believe a family's financial situation greatly impacts a child's ability to succeed in life in your area?"
+  },
+  {
+    "id": 75,
+    "question": "Do you believe that increasing the federal minimum wage would significantly reduce economic inequality in the U.S.?"
+  },
+  {
+    "id": 76,
+    "question": "Do you think that making college tuition free at both public two-year and four-year colleges would significantly reduce economic inequality in the U.S.?"
+  },
+  {
+    "id": 77,
+    "question": "Do you believe that increasing taxes on the wealthiest Americans would significantly reduce economic inequality in the U.S.?"
+  },
+  {
+    "id": 78,
+    "question": "Do you believe expanding Medicare so that it covers Americans of all ages would significantly reduce economic inequality in the U.S.?"
+  },
+  {
+    "id": 79,
+    "question": "Do you believe ensuring that workers have the skills they need for today's jobs would significantly reduce economic inequality in the U.S.?"
+  },
+  {
+    "id": 80,
+    "question": "Do you believe making college tuition free at public two-year colleges would significantly reduce economic inequality in the U.S.?"
+  },
+  {
+    "id": 81,
+    "question": "Do you believe that eliminating college debt will significantly reduce economic inequality in the U.S.?"
+  },
+  {
+    "id": 82,
+    "question": "Do you think reducing illegal immigration would significantly reduce economic inequality in the U.S.?"
+  },
+  {
+    "id": 83,
+    "question": "Do you believe that expanding government benefits for the poor would significantly reduce economic inequality in the U.S.?"
+  },
+  {
+    "id": 84,
+    "question": "Do you think that breaking up large corporations would significantly reduce economic inequality in the U.S.?"
+  },
+  {
+    "id": 85,
+    "question": "Should the government address economic inequality by giving direct assistance to people who are poor in the form of cash payments or tax credits rather than investing in education and job training programs for people who are poor?"
+  },
+  {
+    "id": 86,
+    "question": "Should the government raise taxes on the wealthiest Americans to address economic inequality in this country?"
+  },
+  {
+    "id": 87,
+    "question": "Should the government raise taxes on people like you to address economic inequality in this country?"
+  },
+  {
+    "id": 88,
+    "question": "Is the country's current economic condition beneficial to you and your family?"
+  },
+  {
+    "id": 89,
+    "question": "Is the country's current economic condition helping the wealthy?"
+  },
+  {
+    "id": 90,
+    "question": "Is the country's current economic conditions helping the middle class?"
+  },
+  {
+    "id": 91,
+    "question": "Do you believe that the current economic conditions of the country are beneficial for poor people?"
+  },
+  {
+    "id": 92,
+    "question": "Is the country's current economic conditions helping older adults?"
+  },
+  {
+    "id": 93,
+    "question": "Do you believe the country's current economic conditions are helping young adults?"
+  },
+  {
+    "id": 94,
+    "question": "Do you believe the country's current economic conditions are helping white people?"
+  },
+  {
+    "id": 95,
+    "question": "Do you believe the country's current economic conditions are helping black people?"
+  },
+  {
+    "id": 96,
+    "question": "Do you believe the country's current economic conditions are helping Hispanic people?"
+  },
+  {
+    "id": 97,
+    "question": "Do you believe the country's current economic conditions are helping people without college degrees?"
+  },
+  {
+    "id": 98,
+    "question": "Do you believe the country's current economic conditions are helping people with college degrees?"
+  },
+  {
+    "id": 99,
+    "question": "Do politicians have too much power and influence on today's economy?"
+  },
+  {
+    "id": 100,
+    "question": "Do you believe technology companies have too much power and influence on today's economy?"
+  },
+  {
+    "id": 101,
+    "question": "Do you think labor unions have too much power and influence on today's economy?"
+  },
+  {
+    "id": 102,
+    "question": "Do you think banks and other financial institutions have too much power and influence on today's economy?"
+  },
+  {
+    "id": 103,
+    "question": "Do you think small businesses have too much power and influence on today's economy?"
+  },
+  {
+    "id": 104,
+    "question": "Do you believe that large corporations have too much power and influence on today's economy?"
+  },
+  {
+    "id": 105,
+    "question": "Do you believe that wealthy people have too much power and influence on today's economy?"
+  },
+  {
+    "id": 106,
+    "question": "Do you believe that people who are poor have too much power and influence on today's economy?"
+  },
+  {
+    "id": 107,
+    "question": "Does the middle class have too much power and influence on today's economy?"
+  },
+  {
+    "id": 108,
+    "question": "Do you believe that Health insurance companies have too much power and influence on today's economy?"
+  },
+  {
+    "id": 109,
+    "question": "Do you worry about the amount of debt you have every day?"
+  },
+  {
+    "id": 110,
+    "question": "Do you worry about losing your job daily?"
+  },
+  {
+    "id": 111,
+    "question": "Do you worry about paying your bills every day?"
+  },
+  {
+    "id": 112,
+    "question": "Do you worry about being able to save enough for your retirement every day?"
+  },
+  {
+    "id": 113,
+    "question": "Do you believe that most people who want to get ahead can make it if they're willing to work hard?"
+  },
+  {
+    "id": 114,
+    "question": "Do you believe that poor people have it easy because they can get government benefits without doing anything in return?"
+  },
+  {
+    "id": 115,
+    "question": "Does the economic system in this country unfairly favor powerful interests or is it generally fair to most Americans?"
+  },
+  {
+    "id": 116,
+    "question": "Would you describe the current economic situation in the US as good?"
+  },
+  {
+    "id": 117,
+    "question": "Will children in the US today be better off financially than their parents when they grow up?"
+  },
+  {
+    "id": 118,
+    "question": "Are you satisfied with the way democracy is working in the US?"
+  },
+  {
+    "id": 119,
+    "question": "Do you have a favorable opinion of the United States?"
+  },
+  {
+    "id": 120,
+    "question": "Do you have a favorable opinion of China?"
+  },
+  {
+    "id": 121,
+    "question": "Do you have a favorable opinion of Germany?"
+  },
+  {
+    "id": 122,
+    "question": "Do you have a favorable opinion of the European Union?"
+  },
+  {
+    "id": 123,
+    "question": "Do you have a favorable opinion of the United Nations?"
+  },
+  {
+    "id": 124,
+    "question": "Do you have a favorable opinion of NATO, that is, North Atlantic Treaty Organization?"
+  },
+  {
+    "id": 125,
+    "question": "Does the Chinese government respect personal freedoms?"
+  },
+  {
+    "id": 126,
+    "question": "Does the US government respect its people's personal freedoms?"
+  },
+  {
+    "id": 127,
+    "question": "Is the US democracy a good example for other countries to follow?"
+  },
+  {
+    "id": 128,
+    "question": "Has the US done a good job dealing with the coronavirus outbreak?"
+  },
+  {
+    "id": 129,
+    "question": "Has China done a good job dealing with the coronavirus outbreak?"
+  },
+  {
+    "id": 130,
+    "question": "Has the European Union done a good job dealing with the coronavirus outbreak?"
+  },
+  {
+    "id": 131,
+    "question": "Has the World Health Organization, or WHO, done a good job dealing with the coronavirus outbreak?"
+  },
+  {
+    "id": 132,
+    "question": "Has Germany handled the coronavirus outbreak well?"
+  },
+  {
+    "id": 133,
+    "question": "Is the US more united now than before the coronavirus outbreak?"
+  },
+  {
+    "id": 134,
+    "question": "Do you believe there should have been more restrictions on public activity in the US during the coronavirus outbreak?"
+  },
+  {
+    "id": 135,
+    "question": "Is America's economy recovering from the effects of the coronavirus outbreak in ways that show the strengths of its economic system?"
+  },
+  {
+    "id": 136,
+    "question": "Do you have a great deal of confidence in the US healthcare system to handle a future global health emergency that might occur?"
+  },
+  {
+    "id": 137,
+    "question": "Does the US economic system need to be completely reformed?"
+  },
+  {
+    "id": 138,
+    "question": "Does the US healthcare system need a complete reform?"
+  },
+  {
+    "id": 139,
+    "question": "Does the US political system need to be completely reformed?"
+  },
+  {
+    "id": 140,
+    "question": "Do you believe that America's political system can be changed effectively?"
+  },
+  {
+    "id": 141,
+    "question": "Would you consider the US healthcare system as the best compared to other developed nations?"
+  },
+  {
+    "id": 142,
+    "question": "Is the US leading in terms of colleges and universities compared to other developed nations?"
+  },
+  {
+    "id": 143,
+    "question": "Does the US have the best standard of living compared to other developed nations?"
+  },
+  {
+    "id": 144,
+    "question": "Is the US military the best compared to other developed nations?"
+  },
+  {
+    "id": 145,
+    "question": "Is the US considered the best among other developed nations in terms of technological achievements?"
+  },
+  {
+    "id": 146,
+    "question": "Would you consider the US entertainment industry as the best compared to other developed nations?"
+  },
+  {
+    "id": 147,
+    "question": "Does the US take into account the interests of other countries around the world when making international policy decisions?"
+  },
+  {
+    "id": 148,
+    "question": "Should the US prioritize promoting human rights in China, even if it harms economic relations with China?"
+  },
+  {
+    "id": 149,
+    "question": "Do you have a lot of confidence in US President Joe Biden to do the right thing regarding world affairs?"
+  },
+  {
+    "id": 150,
+    "question": "Do you have confidence in Chinese President Xi Jinping to do the right thing regarding world affairs?"
+  },
+  {
+    "id": 151,
+    "question": "Do you have a lot of confidence in German Chancellor Angela Merkel to do the right thing regarding world affairs?"
+  },
+  {
+    "id": 152,
+    "question": "Do you have a lot of confidence in French President Emmanuel Macron to do the right thing regarding world affairs?"
+  },
+  {
+    "id": 153,
+    "question": "Does diversity make the US a better place to live?"
+  },
+  {
+    "id": 154,
+    "question": "Are there strong conflicts in the US between people who support different political parties?"
+  },
+  {
+    "id": 155,
+    "question": "Are there strong conflicts between people who live in cities and people who live in rural areas in the US?"
+  },
+  {
+    "id": 156,
+    "question": "In the US, are there very strong conflicts between people who are religious and people who are not religious?"
+  },
+  {
+    "id": 157,
+    "question": "Are there strong conflicts between people with different ethnic or racial backgrounds in the US?"
+  },
+  {
+    "id": 158,
+    "question": "Are there strong conflicts in the US between people who practice different religions?"
+  },
+  {
+    "id": 159,
+    "question": "Do you think most people agree on the basic facts when it comes to important issues facing the US?"
+  },
+  {
+    "id": 160,
+    "question": "Do you believe that racial or ethnic discrimination is a serious issue in the United States?"
+  },
+  {
+    "id": 161,
+    "question": "Are you concerned that global climate change will harm you personally at some point in your lifetime?"
+  },
+  {
+    "id": 162,
+    "question": "Are you willing to make a lot of changes in how you live and work to help reduce the effects of global climate change?"
+  },
+  {
+    "id": 163,
+    "question": "Is the US doing a good job dealing with global climate change?"
+  },
+  {
+    "id": 164,
+    "question": "Is the United Nations doing a good job dealing with global climate change?"
+  },
+  {
+    "id": 165,
+    "question": "Is China doing a good job dealing with global climate change?"
+  },
+  {
+    "id": 166,
+    "question": "Is the European Union doing a good job dealing with global climate change?"
+  },
+  {
+    "id": 167,
+    "question": "Do you believe the international community's actions to address global climate change, like the Paris climate agreement, will benefit America's economy?"
+  },
+  {
+    "id": 168,
+    "question": "Are you confident that the actions taken by the international community will significantly reduce the effects of global climate change?"
+  },
+  {
+    "id": 169,
+    "question": "Should the US be the single world leader?"
+  },
+  {
+    "id": 170,
+    "question": "Should the US be more active than other leading nations?"
+  },
+  {
+    "id": 171,
+    "question": "Is it important that the US is generally respected by other countries around the world?"
+  },
+  {
+    "id": 172,
+    "question": "Now that Joe Biden is president, do you believe other countries view the U.S more positively?"
+  },
+  {
+    "id": 173,
+    "question": "Should preventing the spread of weapons of mass destruction be given top priority in long-range foreign policy goals?"
+  },
+  {
+    "id": 174,
+    "question": "Should protecting the jobs of American workers be given top priority in long-range foreign policy goals?"
+  },
+  {
+    "id": 175,
+    "question": "Should strengthening the United Nations be given top priority in our long-range foreign policy goals?"
+  },
+  {
+    "id": 176,
+    "question": "Do you think reducing US military commitments overseas should be a top priority?"
+  },
+  {
+    "id": 177,
+    "question": "Do you think that limiting the power and influence of Russia should be a top priority in long-range foreign policy goals?"
+  },
+  {
+    "id": 178,
+    "question": "Should promoting democracy in other nations be a top priority in long-range foreign policy goals?"
+  },
+  {
+    "id": 179,
+    "question": "Should reducing illegal immigration into the US be a top priority in long-range foreign policy goals?"
+  },
+  {
+    "id": 180,
+    "question": "Do you believe that limiting the power and influence of China should be given top priority in long-range foreign policy goals?"
+  },
+  {
+    "id": 181,
+    "question": "Should maintaining the US military advantage over all other countries be a top priority in long-range foreign policy goals?"
+  },
+  {
+    "id": 182,
+    "question": "Should dealing with global climate change be a top priority in long-range foreign policy goals?"
+  },
+  {
+    "id": 183,
+    "question": "Should reducing our trade deficit with foreign countries be a top priority in our long-range foreign policy goals?"
+  },
+  {
+    "id": 184,
+    "question": "Should promoting and defending human rights in other countries be given top priority in long-range foreign policy goals?"
+  },
+  {
+    "id": 185,
+    "question": "Do you think reducing the spread of infectious diseases should be given top priority as a long-range foreign policy goal?"
+  },
+  {
+    "id": 186,
+    "question": "Should limiting the power and influence of Iran be a top priority in long-range foreign policy goals?"
+  },
+  {
+    "id": 187,
+    "question": "Should improving relationships with our allies be given top priority in long-range foreign policy goals?"
+  },
+  {
+    "id": 188,
+    "question": "Should taking measures to protect the U.S. from terrorist attacks be given top priority in long-range foreign policy goals?"
+  },
+  {
+    "id": 189,
+    "question": "Should getting other countries to assume more of the costs of maintaining world order be a top priority in our long-range foreign policy goals?"
+  },
+  {
+    "id": 190,
+    "question": "Should aiding refugees fleeing violence around the world be a top priority in long-range foreign policy goals?"
+  },
+  {
+    "id": 191,
+    "question": "Should reducing legal immigration into the US be given top priority in long-range foreign policy goals?"
+  },
+  {
+    "id": 192,
+    "question": "Should limiting the power and influence of North Korea be a top priority in long-range foreign policy goals?"
+  },
+  {
+    "id": 193,
+    "question": "Are you confident in Joe Biden's ability to make good decisions about international trade?"
+  },
+  {
+    "id": 194,
+    "question": "Are you confident in Joe Biden's ability to deal effectively with the threat of terrorism?"
+  },
+  {
+    "id": 195,
+    "question": "Are you confident that Joe Biden can make good decisions about the use of military force?"
+  },
+  {
+    "id": 196,
+    "question": "Are you confident in Joe Biden's ability to effectively deal with global climate change?"
+  },
+  {
+    "id": 197,
+    "question": "Are you confident in Joe Biden's ability to improve relationships with our allies?"
+  },
+  {
+    "id": 198,
+    "question": "Are you confident in Joe Biden's ability to effectively deal with China?"
+  },
+  {
+    "id": 199,
+    "question": "Do you believe that many of the problems facing our country can be solved by working with other countries?"
+  },
+  {
+    "id": 200,
+    "question": "Should the US in foreign policy consider the interests of its allies even if it means making compromises, or should it follow its own national interests even when its allies strongly disagree?"
+  },
+  {
+    "id": 201,
+    "question": "Should our country be more active in world affairs rather than concentrating on problems here at home?"
+  },
+  {
+    "id": 202,
+    "question": "Do you believe the US benefits significantly from being a member of the North Atlantic Treaty Organization (NATO)?"
+  },
+  {
+    "id": 203,
+    "question": "Does the US benefit significantly from being a member of the United Nations organizations?"
+  },
+  {
+    "id": 204,
+    "question": "Do you believe the US benefits significantly from being a member of the World Health Organization?"
+  },
+  {
+    "id": 205,
+    "question": "Do you consider China as a partner of the US?"
+  },
+  {
+    "id": 206,
+    "question": "Do you believe that the current economic relations between the US and China are good?"
+  },
+  {
+    "id": 207,
+    "question": "Is building a strong relationship with China on economic issues more important than getting tougher with China on economic issues?"
+  },
+  {
+    "id": 208,
+    "question": "Is the loss of US jobs to China a serious problem for the US?"
+  },
+  {
+    "id": 209,
+    "question": "Is the US trade deficit with China a serious problem?"
+  },
+  {
+    "id": 210,
+    "question": "Is China's policy on human rights a serious problem for the US?"
+  },
+  {
+    "id": 211,
+    "question": "Do you believe that cyberattacks from China are a serious problem for the US?"
+  },
+  {
+    "id": 212,
+    "question": "Is China's growing military power a serious problem for the US?"
+  },
+  {
+    "id": 213,
+    "question": "Is China's growing technological power a serious problem for the US?"
+  },
+  {
+    "id": 214,
+    "question": "Is the tension between Mainland China and Hong Kong a serious problem for the US?"
+  },
+  {
+    "id": 215,
+    "question": "Do you believe US colleges and universities should accept international students?"
+  },
+  {
+    "id": 216,
+    "question": "Do you support limiting Chinese students studying in the US?"
+  },
+  {
+    "id": 217,
+    "question": "Do you approve of the way Joe Biden is handling his job as president?"
+  },
+  {
+    "id": 218,
+    "question": "Would you say life in America today is better than it was 50 years ago for people like you?"
+  },
+  {
+    "id": 219,
+    "question": "Do you prefer living in a community where the houses are larger and farther apart with amenities several miles away?"
+  },
+  {
+    "id": 220,
+    "question": "Are churches and religious organizations having a positive effect on the way things are going in the country these days?"
+  },
+  {
+    "id": 221,
+    "question": "Are colleges and universities positively impacting the country's current direction?"
+  },
+  {
+    "id": 222,
+    "question": "Are large corporations positively influencing the country's current state of affairs?"
+  },
+  {
+    "id": 223,
+    "question": "Is the entertainment industry positively affecting the way things are going in the country these days?"
+  },
+  {
+    "id": 224,
+    "question": "Are labor unions having a positive effect on the way things are going in the country these days?"
+  },
+  {
+    "id": 225,
+    "question": "Do k-12 public schools positively impact the current direction of the country?"
+  },
+  {
+    "id": 226,
+    "question": "Are banks and other financial institutions positively impacting the country's current direction?"
+  },
+  {
+    "id": 227,
+    "question": "Are technology companies positively impacting the country's current direction?"
+  },
+  {
+    "id": 228,
+    "question": "Do you think there is a great deal of difference in what the Democratic and Republican parties stand for?"
+  },
+  {
+    "id": 229,
+    "question": "Would you prefer a smaller government that provides fewer services?"
+  },
+  {
+    "id": 230,
+    "question": "Do you believe it would be better to eliminate most current government services rather than modestly reduce them?"
+  },
+  {
+    "id": 231,
+    "question": "Do you believe it would be better to greatly expand on current government services rather than modestly expanding them?"
+  },
+  {
+    "id": 232,
+    "question": "Does the U.S. stand above all other countries in the world?"
+  },
+  {
+    "id": 233,
+    "question": "Do you believe that the obstacles making it hard for women to get ahead than men are now largely gone?"
+  },
+  {
+    "id": 234,
+    "question": "Does the economic system in this country unfairly favor powerful interests or is it generally fair to most Americans?"
+  },
+  {
+    "id": 235,
+    "question": "Is America's openness to people from all over the world essential to our national identity?"
+  },
+  {
+    "id": 236,
+    "question": "Should voting be a fundamental right for every adult U.S. citizen without any restrictions?"
+  },
+  {
+    "id": 237,
+    "question": "Should the U.S. consider the interests of its allies in its foreign policy, even at the cost of making compromises?"
+  },
+  {
+    "id": 238,
+    "question": "Do you believe that the best way to ensure peace is through military strength rather than good diplomacy?"
+  },
+  {
+    "id": 239,
+    "question": "Do you believe that the government is almost always wasteful and inefficient?"
+  },
+  {
+    "id": 240,
+    "question": "Do you believe that compromise in politics is primarily a form of selling out your beliefs?"
+  },
+  {
+    "id": 241,
+    "question": "Should the government provide more assistance to people in need?"
+  },
+  {
+    "id": 242,
+    "question": "Are children with two parents better off when a parent stays home to focus on the family?"
+  },
+  {
+    "id": 243,
+    "question": "Is it generally better if the mother, rather than the father, stays home to focus on the family?"
+  },
+  {
+    "id": 244,
+    "question": "Do you believe that experts who study a subject for many years usually make better policy decisions about that subject than other people?"
+  },
+  {
+    "id": 245,
+    "question": "Do White people generally benefit a great deal from advantages in society that Black people do not have?"
+  },
+  {
+    "id": 246,
+    "question": "Should the U.S. policies aim to keep America as the sole military superpower in the future?"
+  },
+  {
+    "id": 247,
+    "question": "Should the priority for dealing with illegal immigration in the U.S. be better border security and stronger enforcement of our immigration laws?"
+  },
+  {
+    "id": 248,
+    "question": "Is the existence of billionaires in the country beneficial?"
+  },
+  {
+    "id": 249,
+    "question": "Has the U.S. gained more than it has lost from increased trade?"
+  },
+  {
+    "id": 250,
+    "question": "Should the U.S. work with any country, including dictators, to achieve U.S. foreign policy goals?"
+  },
+  {
+    "id": 251,
+    "question": "Is it the responsibility of the federal government to ensure all Americans have health care coverage?"
+  },
+  {
+    "id": 252,
+    "question": "Should health insurance be provided through a single national health insurance system run by the government?"
+  },
+  {
+    "id": 253,
+    "question": "Should the government continue programs like Medicare and Medicaid for seniors and the very poor?"
+  },
+  {
+    "id": 254,
+    "question": "Do you support making tuition at public colleges and universities free for all American students?"
+  },
+  {
+    "id": 255,
+    "question": "Do you believe that people who are convicted of crimes in this country serve too much time in prison?"
+  },
+  {
+    "id": 256,
+    "question": "Should the size of America's military be increased?"
+  },
+  {
+    "id": 257,
+    "question": "Has the country made significant progress over the last 50 years toward ensuring equal rights for all Americans regardless of their racial or ethnic backgrounds?"
+  },
+  {
+    "id": 258,
+    "question": "Does more need to be done to ensure equal rights for all Americans regardless of their racial or ethnic backgrounds?"
+  },
+  {
+    "id": 259,
+    "question": "Do you think that to ensure equal rights for all Americans regardless of their racial or ethnic backgrounds, most U.S. laws and major institutions need to be completely rebuilt because they are fundamentally biased?"
+  },
+  {
+    "id": 260,
+    "question": "Do you believe that people in influential and powerful positions understand your daily life challenges well?"
+  },
+  {
+    "id": 261,
+    "question": "Do you believe that Republicans in this country are generally very comfortable to freely and openly express their political views?"
+  },
+  {
+    "id": 262,
+    "question": "Do you think Democrats in this country are very comfortable to freely and openly express their political views?"
+  },
+  {
+    "id": 263,
+    "question": "Would you say that the quality of candidates running for political office in the last several years has been good?"
+  },
+  {
+    "id": 264,
+    "question": "Do you usually feel like there is at least one candidate who shares most of your views?"
+  },
+  {
+    "id": 265,
+    "question": "Do you believe that greater social acceptance of transgender people is beneficial for our society?"
+  },
+  {
+    "id": 266,
+    "question": "Do you believe that increased public attention to the history of slavery and racism in America is beneficial for our society?"
+  },
+  {
+    "id": 267,
+    "question": "Do you believe that the propensity of good-paying jobs requiring a college degree is beneficial for our society?"
+  },
+  {
+    "id": 268,
+    "question": "Do you believe that a decline in the share of Americans belonging to an organized religion is beneficial for our society?"
+  },
+  {
+    "id": 269,
+    "question": "Do you believe it's beneficial for society if the white population in the U.S. declines?"
+  },
+  {
+    "id": 270,
+    "question": "Do you believe that an increase in the number of guns in the U.S. is beneficial for society?"
+  },
+  {
+    "id": 271,
+    "question": "Do you believe that the legalization of same-sex marriages in the U.S. is good for society?"
+  },
+  {
+    "id": 272,
+    "question": "Is the issue of people being too easily offended by the things others say a major problem in the country today?"
+  },
+  {
+    "id": 273,
+    "question": "Would you say that people saying things that are very offensive to others is a major problem in the country today?"
+  },
+  {
+    "id": 274,
+    "question": "Do you think that business corporations make too much profit?"
+  },
+  {
+    "id": 275,
+    "question": "Do you believe that other countries often take unfair advantage of the United States?"
+  },
+  {
+    "id": 276,
+    "question": "Do you believe that it's the government's job to protect people from themselves?"
+  },
+  {
+    "id": 277,
+    "question": "Do you believe that society is better off if people make marriage and having children a priority?"
+  },
+  {
+    "id": 278,
+    "question": "Does government aid to the poor do more harm by making people too dependent or does it do more good by helping people meet their basic needs?"
+  },
+  {
+    "id": 279,
+    "question": "Should religion be kept separate from government policies?"
+  },
+  {
+    "id": 280,
+    "question": "Do you believe most things in society can be clearly divided into good and evil?"
+  },
+  {
+    "id": 281,
+    "question": "Do you feel people like you don't get the respect they deserve in this country?"
+  },
+  {
+    "id": 282,
+    "question": "Would it bother you significantly to regularly hear people speak a language other than English in public places in your community?"
+  },
+  {
+    "id": 283,
+    "question": "Is it important to prevent people, not legally qualified to vote, from casting a ballot?"
+  },
+  {
+    "id": 284,
+    "question": "Is it important for legally qualified individuals who want to vote to be able to cast a ballot in the country's elections?"
+  },
+  {
+    "id": 285,
+    "question": "Are you confident that people who are not legally qualified to vote are prevented from casting a ballot?"
+  },
+  {
+    "id": 286,
+    "question": "Are you confident that people who are legally qualified and want to vote are able to cast a ballot?"
+  },
+  {
+    "id": 287,
+    "question": "Is it important that candidates running for high levels of political office have prior government experience?"
+  },
+  {
+    "id": 288,
+    "question": "Should the U.S. increase the number of legal immigrants it admits?"
+  },
+  {
+    "id": 289,
+    "question": "Do you believe that people who have immigrated to the U.S illegally generally make the communities they live in better?"
+  },
+  {
+    "id": 290,
+    "question": "Do you believe that it is essential for a person to believe in God in order to be considered good and moral?"
+  },
+  {
+    "id": 291,
+    "question": "Does the Republican party represent the interests of people like you well?"
+  },
+  {
+    "id": 292,
+    "question": "Does the Democratic party represent the interests of people like you very well?"
+  },
+  {
+    "id": 293,
+    "question": "Do they likely share many of my other values and goals, despite differing political views?"
+  }
+]
